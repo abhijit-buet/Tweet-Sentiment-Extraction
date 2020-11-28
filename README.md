@@ -1,6 +1,6 @@
 # Tweet-Sentiment-Extraction
 
-This challenge was launched in kaggle. The problem - there is a sentence and it's corresponding sentiment like positive, negative or neutral as input. We need to predict the part of the sentence that is responsible for that sentiment.
+This challenge was launched in kaggle. The problem - a sentence and it's corresponding sentiment like positive, negative or neutral as input. We need to predict the part of the sentence that is responsible for that sentiment.
 Example: The sentence: "My dog is amazing", Sentiment: "Positive", Key part of the Sentence = "amazing"
 
 <h1> Proposed Method
