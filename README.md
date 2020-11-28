@@ -1,12 +1,12 @@
 # Tweet-Sentiment-Extraction
 
-This challenge was launched in kaggle. The problem was - there is a sentence and it's corresponding sentiment like positive, negative or neutral. We need to predict the part of the sentence that is responsible for that sentiment.
+This challenge was launched in kaggle. The problem - there is a sentence and it's corresponding sentiment like positive, negative or neutral as input. We need to predict the part of the sentence that is responsible for that sentiment.
 Example: The sentence: "My dog is amazing", Sentiment: "Positive", Key part of the Sentence = "amazing"
 
 <h1> Proposed Method
 <h6>
   
- I have used a Pretrained BERT model to solve this problem.
+ I have trained a Pre-trained BERT model to solve this problem.
  Traditional BERT is made for question answering task, like we need to input the question and the context and the output will be the answer.
  We can model the above problem in a question - answering format,
  Sentiment = Question
