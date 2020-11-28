@@ -15,7 +15,7 @@ Example: The sentence: "My dog is amazing", Sentiment: "Positive", Key part of t
  
 <img src="https://github.com/abhijit-buet/Images/blob/main/Slide2.PNG" width = "512" height = "328">
 
-I have used the BERT TOKENIZER for the tokenization task. Performed a three-fold training on the BERT model and ensembled the output.
+I used the BERT TOKENIZER for the tokenization task. Performed a three-fold training on the BERT model and ensembled the output.
 
 <h1> Result
  <h6>
